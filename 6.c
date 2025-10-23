@@ -1,4 +1,4 @@
-//wap to check number is even 
+//wap to check number is even or odd 
 #include <stdio.h> 
   int main () {
     int x;
@@ -15,4 +15,5 @@
          
       
       return 0; 
+
   }
